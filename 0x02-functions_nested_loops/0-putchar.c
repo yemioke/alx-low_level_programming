@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <main.h>
 
 /**
  * main - this function prints \"_putchar\*
@@ -11,5 +11,5 @@
 int main()
 {
 	printf("_putchar\n");
-	return (0);
+	return (0)
 }
