@@ -1,1 +1,1 @@
-0x00. C - Hello, World project
+0x06. C - More pointers, arrays and strings
