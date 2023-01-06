@@ -1,1 +1,1 @@
-0x06. C - More pointers, arrays and strings
+This directory solves problems on low level language C programming
