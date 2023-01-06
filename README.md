@@ -1,1 +1,1 @@
-This directory solves problems on low level language C programming
+This directory solve problems on low level language programming on C
